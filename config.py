@@ -4,7 +4,7 @@ load_dotenv()
 
 import os
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 
